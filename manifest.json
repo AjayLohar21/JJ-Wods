@@ -1,0 +1,17 @@
+{
+    "name": "JJWoods",
+    "short_name": "JJWoods",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2A3443",
+    "description": "Furniture application",
+    "theme_color": "EBD8C3",
+    "icons": [
+      {
+        "src": "./images/512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+
+    ]
+  }
